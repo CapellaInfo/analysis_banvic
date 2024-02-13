@@ -1,0 +1,27 @@
+Insights:
+- Filtrar por agencias;
+- Analisar a diferenca de popularidade entre agencias fisicas e digitais
+- Como o PIX afetou as transacoes
+- Padroes de inatividade
+
+Desafio:
+- Gerar um relatório com indicadores de performance, para isso devemos criar indicadores de negócio e sugerir melhorias com base nesses indicadores;
+- Power BI, Excel, Python, SQL...
+- Formatar de maneira profissional e objetiva;
+
+Entregas:
+1. Com base na análise exploratória realizada nos dados apresentados, quais perguntas de negócio podemos responder para mostrar o valor que os dados possuem para a empresa?
+2. Quais serão os indicadores ou visualizações utilizadas para responder às perguntas de negócio citadas anteriormente?
+3. Apresentar pelo menos duas análises de negócio para cada uma das categorias:
+- análise descritiva;
+- análise diagnóstica;
+- análise prescritiva;
+- análise preditiva.
+4. Um relatório em PDF com suas análises, justificativas e raciocínio:
+- Um tópico descrevendo brevemente quais os processos de transformação e tratamento de dados foram aplicados por você.
+- Um dashboard dos principais KPIs de negócio do BanVic permitindo um detalhamento por data, por agência e por clientes.
+- Apresentar as análises que foram necessárias para o entendimento do negócio e que podem ser úteis no suporte para a tomada de decisão.
+- Conclusão com recomendações/sugestões de negócio e encaminhamentos para a CEO do BanVic.
+- Apresentar e justificar as ferramentas adotadas para a elaboração das análises.
+
+* Enviar os dashboards, notebooks e repositório no github com readme.

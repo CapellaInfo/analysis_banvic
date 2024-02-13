@@ -1,0 +1,11 @@
+cod_agencia,nome,endereco,cidade,uf,data_abertura,tipo_agencia,Quantidade de Ag�ncias Digitais,Quantidade de Ag�ncias F�sicas
+7,Agência Digital,"Av. Paulista, 1436 - Cerqueira César, São Paulo - SP, 01310-916",São Paulo,SP,8/1/2015,Digital,1,9
+1,Agência Matriz,"Av. Paulista, 1436 - Cerqueira César, São Paulo - SP, 01310-916",São Paulo,SP,1/1/2010,Física,,
+2,Agência Tatuapé,"Praça Sílvio Romero, 158 - Tatuapé, São Paulo - SP, 03323-000",São Paulo,SP,6/14/2010,Física,,
+3,Agência Campinas,"Av. Francisco Glicério, 895 - Vila Lidia, Campinas - SP, 13012-000",Campinas,SP,3/4/2012,Física,,
+4,Agência Osasco,"Av. Antônio Carlos Costa, 1000 - Bela Vista, Osasco - SP, 06053-014",Osasco,SP,11/6/2013,Física,,
+5,Agência Porto Alegre,"Av. Bento Gonçalves, 1924 - Partenon, Porto Alegre - RS, 90650-000",Porto Alegre,RS,12/1/2013,Física,,
+6,Agência Rio de Janeiro,"R. Sen. Dantas, 15 - Centro, Rio de Janeiro - RJ, 20031-202",Rio de Janeiro,RJ,4/1/2015,Física,,
+8,Agência Jardins,"Av. Brg. Faria Lima, 2491 - Jardim Paulistano, São Paulo - SP, 01452-000",São Paulo,SP,1/9/2018,Física,,
+9,Agência Florianópolis,"Av. Jorn. Rubéns de Arruda Ramos, 1280 - Centro, Florianópolis - SC, 88015-700",Florianópolis,SC,10/9/2019,Física,,
+10,Agência Recife,"Av. Conselheiro Aguiar, 4432 - Boa Viagem, Recife - PE, 51021-020",Recife,PE,10/9/2021,Física,,
