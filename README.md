@@ -1,4 +1,4 @@
-# ANÁLISES BANVIC - VAGA ESTÁGIO
+# ANÁLISES BANVIC - VAGA ESTÁGIO 🎯💰
 
 1. Com base na análise exploratória realizada nos dados apresentados, quais perguntas de negócio podemos responder para mostrar o valor que os dados possuem para a empresa?
 - Podemos analisar dados bases como quantidade de clientes, colaboradores, agencias...
@@ -24,8 +24,6 @@ a. Um tópico descrevendo brevemente quais os processos de transformação e tra
 b. Um dashboard dos principais KPIs de negócio do BanVic permitindo um detalhamento por data, por agência e por clientes.
 - https://github.com/CapellaInfo/analysis_banvic/blob/main/dashboard_picture.png
 - https://github.com/CapellaInfo/analysis_banvic/blob/main/analise_banvic2.pbix
-c. Apresentar as análises que foram necessárias para o entendimento do negócio e que podem ser úteis no suporte para a tomada de decisão.
-- 
 
 d. Conclusão com recomendações/sugestões de negócio e encaminhamentos para a CEO do BanVic.
 - O principal ponto para o banco atualmente seria na parte Digital e isso fica claro durante as análises, onde é possível notar que as agências digitais estão em um crescente bem grande. Com relação aos métodos de pagamento fica bem notório que o PIX está ganhando cada vez mais notoriedade, muito por conta da sua simplicidade e rapidez.
